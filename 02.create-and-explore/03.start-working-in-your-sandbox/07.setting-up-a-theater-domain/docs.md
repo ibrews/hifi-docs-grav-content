@@ -54,7 +54,7 @@ By default, a High Fidelity Sandbox will contain the tutorial environment and a 
 
 Here's how you can delete the tutorial content:
 
-1. Enable Edit Mode at 0, 0, 0.
+1. Enable Create Mode at 0, 0, 0.
 2. View the entity list and select all of the objects within a 100m radius by holding down Shift and clicking the first and last entity.
 3. Unlock all entities by clicking the lock icon twice. If you can’t lock or unlock entities, ensure that you are logged in and that you have granted your user account the proper permissions to lock, unlock, rez, and delete objects.
 4. Once all of the entities are unlocked, delete them to get a clean space to build in.
